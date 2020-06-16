@@ -1,5 +1,13 @@
+[![Generic badge](https://img.shields.io/badge/CONTRIBUTORS-WELCOME-GREEN.svg)](https://github.com/Pethical/Please)
+[![MIT license](https://img.shields.io/badge/License-MIT-blue.svg)](https://lbesson.mit-license.org/)
+[![Open Source Love svg1](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/Pethical/Please)
+
 # Please
-Please command for bash.
+Please command for bash with unlimited possibilities.
+
+## How to use
+
+Just type the `please` command before the your original command
 
 ## Usage samples:
 
