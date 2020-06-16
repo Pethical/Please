@@ -3,7 +3,7 @@
 [![Open Source Love svg1](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/Pethical/Please)
 
 # Please
-Please command for bash with unlimited possibilities.
+"Please" command for bash with unlimited possibilities.
 
 ## How to use
 
