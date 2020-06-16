@@ -7,7 +7,7 @@
 
 ## How to use
 
-Just type the `please` command before the your original command
+Just type the `please` command before your original command
 
 ## Usage samples:
 
